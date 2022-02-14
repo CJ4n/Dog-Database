@@ -1,0 +1,85 @@
+D:\Users\Janek C\source\repos\PiesDB\bin\Debug\netcoreapp3.1\PiesDB.exe
+D:\Users\Janek C\source\repos\PiesDB\bin\Debug\netcoreapp3.1\PiesDB.deps.json
+D:\Users\Janek C\source\repos\PiesDB\bin\Debug\netcoreapp3.1\PiesDB.runtimeconfig.json
+D:\Users\Janek C\source\repos\PiesDB\bin\Debug\netcoreapp3.1\PiesDB.runtimeconfig.dev.json
+D:\Users\Janek C\source\repos\PiesDB\bin\Debug\netcoreapp3.1\PiesDB.dll
+D:\Users\Janek C\source\repos\PiesDB\bin\Debug\netcoreapp3.1\PiesDB.pdb
+D:\Users\Janek C\source\repos\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.csprojAssemblyReference.cache
+D:\Users\Janek C\source\repos\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.DB.resources
+D:\Users\Janek C\source\repos\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.csproj.GenerateResource.cache
+D:\Users\Janek C\source\repos\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.AssemblyInfoInputs.cache
+D:\Users\Janek C\source\repos\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.AssemblyInfo.cs
+D:\Users\Janek C\source\repos\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.csproj.CoreCompileInputs.cache
+D:\Users\Janek C\source\repos\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.dll
+D:\Users\Janek C\source\repos\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.pdb
+D:\Users\Janek C\source\repos\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.genruntimeconfig.cache
+C:\Users\Janek C\Desktop\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.DB.resources
+C:\Users\Janek C\Desktop\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.csproj.GenerateResource.cache
+C:\Users\Janek C\Desktop\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.AssemblyInfoInputs.cache
+C:\Users\Janek C\Desktop\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.AssemblyInfo.cs
+C:\Users\Janek C\Desktop\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.dll
+C:\Users\Janek C\Desktop\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.pdb
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\PiesDB.exe
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\PiesDB.deps.json
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\PiesDB.runtimeconfig.json
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\PiesDB.runtimeconfig.dev.json
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\PiesDB.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\PiesDB.pdb
+C:\Users\Janek C\Desktop\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.genruntimeconfig.cache
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Janek C\Desktop\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.csproj.CopyComplete
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Janek C\Desktop\PiesDB\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Janek C\Desktop\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.csproj.CoreCompileInputs.cache
+C:\Users\Janek C\Desktop\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.csproj.AssemblyReference.cache
+C:\Users\Janek C\Desktop\PiesDB\obj\Debug\netcoreapp3.1\PiesDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\PiesDB.exe
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\PiesDB.deps.json
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\PiesDB.runtimeconfig.json
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\PiesDB.runtimeconfig.dev.json
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\PiesDB.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\PiesDB.pdb
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\obj\Debug\netcoreapp3.1\PiesDB.csproj.AssemblyReference.cache
+C:\Users\Janek C\Desktop\PiesDB - Copy\obj\Debug\netcoreapp3.1\PiesDB.DB.resources
+C:\Users\Janek C\Desktop\PiesDB - Copy\obj\Debug\netcoreapp3.1\PiesDB.csproj.GenerateResource.cache
+C:\Users\Janek C\Desktop\PiesDB - Copy\obj\Debug\netcoreapp3.1\PiesDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek C\Desktop\PiesDB - Copy\obj\Debug\netcoreapp3.1\PiesDB.AssemblyInfoInputs.cache
+C:\Users\Janek C\Desktop\PiesDB - Copy\obj\Debug\netcoreapp3.1\PiesDB.AssemblyInfo.cs
+C:\Users\Janek C\Desktop\PiesDB - Copy\obj\Debug\netcoreapp3.1\PiesDB.csproj.CoreCompileInputs.cache
+C:\Users\Janek C\Desktop\PiesDB - Copy\obj\Debug\netcoreapp3.1\PiesDB.csproj.CopyComplete
+C:\Users\Janek C\Desktop\PiesDB - Copy\obj\Debug\netcoreapp3.1\PiesDB.dll
+C:\Users\Janek C\Desktop\PiesDB - Copy\obj\Debug\netcoreapp3.1\PiesDB.pdb
+C:\Users\Janek C\Desktop\PiesDB - Copy\obj\Debug\netcoreapp3.1\PiesDB.genruntimeconfig.cache
